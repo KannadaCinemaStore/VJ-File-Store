@@ -70,7 +70,7 @@ WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', True)) # Set True or Fal
 WEBSITE_URL = environ.get("WEBSITE_URL", "https://kannadamagaafilestorebot.blogspot.com/2026/02/kannadamagaa-movie.html") # For More Information Check Video On Yt - @Tech_VJ
 
 # File Stream Config
-STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set True or False
+STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set True or False
 
 # If Stream Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
 MULTI_CLIENT = False
@@ -80,7 +80,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "https://fortunate-dulcie-kannadamagaa1-062593d0.koyeb.app/")
+URL = environ.get("URL", "https://repulsive-ginni-kannadamovie-b60a9256.koyeb.app/")
 
 
 # Don't Remove Credit Tg - @VJ_Botz
