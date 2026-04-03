@@ -10,9 +10,12 @@ class script(object):
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    
-    CAPTION = """<b><a href="https://t.me/+2UUjdxPTBQc1ODll">{file_caption}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/+2UUjdxPTBQc1ODll>[ᴋᴀɴɴᴀᴅᴀᴍᴀɢᴀᴀ]</a></b>"""
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
+⚙️ sɪᴢᴇ : {file_size}
+
+Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/KannadaMagaa)</b>""" 
+    
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
